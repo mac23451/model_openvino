@@ -1,2 +1,2 @@
 # model_openvino
-first run the code in 
+you can direcly run the the file "vino_test.ipynb" in google colab
