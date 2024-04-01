@@ -1,2 +1,2 @@
 # model_openvino
-you can direcly run the the file "vino_test.ipynb" in google colab
+you can direcly run the the file "openvino.ipynb" in google colab
